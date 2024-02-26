@@ -12,7 +12,6 @@ class MiniTermFragmentGenerator:
 
         return mini_term_fragments
 
-# Example usage
 relations = ['A', 'B', 'C']
 predicates = ['A.X = 1', 'B.Y > 5', 'C.Z < 10']
 
